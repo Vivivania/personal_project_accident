@@ -1,0 +1,9 @@
+{
+    "postgresql":{
+        "host":"172.23.153.149",
+        "db":"postgres",
+        "user":"postgres",
+        "pwd":"postgres",
+        "port":5432
+    }
+}
